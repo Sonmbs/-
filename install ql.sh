@@ -12,7 +12,7 @@ echo -e "\e[36m
    ▀▀▀██   ▀▀▀▀▀▀▀▀  ▀▀    ▀▀   ▄▀▀▀ ██     ▀▀▀▀     ▀▀▀▀    ▀▀    ▀▀   ▄▀▀▀ ██ 
        ▀                        ▀████▀▀                                 ▀████▀▀
 \e[0m\n"
-echo -e "-------- 一路回车默认端口 5700 --------"
+echo -e "-------- 一路回车默认端口 10211 --------"
 sleep 1
 DOCKER_IMG_NAME="whyour/qinglong"
 JD_PATH=""
@@ -20,7 +20,7 @@ SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
 TAG="latest"
 NETWORK="bridge"
-JD_PORT=5700
+JD_PORT=10211
 
 HAS_IMAGE=false
 PULL_IMAGE=true
