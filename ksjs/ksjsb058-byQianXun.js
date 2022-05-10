@@ -1,11 +1,8 @@
 /*
-千寻-极速版0507-细水长流
-14:50修改
+
 此版本为3w版本，不是狂暴版本，请注意！
 解决跑得慢问题，更换广告接口
-q群 667947878
-千寻群自用！
-不要二传！！！
+
 */
 let res1 = 'https://qianxun01.coding.net/p/ks/d/ks/git/raw/master/ksjsb057.json';
 let res2 = 'https://qianxun01.coding.net/p/ks/d/ks/git/raw/master/ksjsb057.json';
