@@ -2,8 +2,8 @@
 复活10万
 自己自测
 理论黑号！！！！
-by千寻
-q群 667947878
+
+
 */
 let res1 = 'https://qianxun01.coding.net/p/ks/d/ks/git/raw/master/10sb.json';
 let res2 = 'https://qianxun01.coding.net/p/ks/d/ks/git/raw/master/10sb.json';
