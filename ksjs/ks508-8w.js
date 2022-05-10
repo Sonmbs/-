@@ -2,8 +2,7 @@
 八万版本，不是细水长流！注意
 去除内部助力
 可能黑号，注意！
-更多脚本加群 667947878
-by千寻
+
 */
 let res1 = 'https://hongkongdoll.coding.net/p/hongkong/d/hongkongdoll/git/raw/master/80000.json';
 let res2 = 'https://hongkongdoll.coding.net/p/hongkong/d/hongkongdoll/git/raw/master/80000.json';
